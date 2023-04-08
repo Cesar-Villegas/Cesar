@@ -4,6 +4,7 @@ metadata:
   name: Cesar
   annotations:
     github.com/project-slug: Cesar-Villegas/Cesar
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
